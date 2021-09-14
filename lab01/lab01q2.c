@@ -1,3 +1,4 @@
+//-  Create a menu driven program that works with an integer array ‘a1’ with number ‘n’. A count of total number of elements in ‘a1’ should always be maintained.
 #include<stdio.h>
 #include<conio.h>
 #define MAX_SIZE 100
