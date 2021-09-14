@@ -124,7 +124,7 @@ int main()
 
 			//to display of array
 			case 4:
-				printf("The array is", arr1[])
+				printf("The array is", arr1[i])
 				break;
 
             //For Exit block
